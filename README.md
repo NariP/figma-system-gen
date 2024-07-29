@@ -1,1 +1,1 @@
-# figma-system-gen
+# Figma
